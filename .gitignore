@@ -1,0 +1,11 @@
+# Private / internal — never commit or publish
+PROJECT-NOTES.md
+.claude/
+
+# Generated / local junk
+publish/
+nul
+_*.png
+_*.html
+.DS_Store
+Thumbs.db
